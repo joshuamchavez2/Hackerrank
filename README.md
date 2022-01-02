@@ -3,7 +3,8 @@
 
 #### Project Objectives
 > - Documenting my daily coding challenges on Hackerrank.com
-    > - Python
-    > - SQL
-    > - HTML
-    > - javascript
+#### Languages Include
+> - Python
+> - SQL
+> - HTML
+> - javascript
