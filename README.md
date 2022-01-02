@@ -3,7 +3,7 @@
 
 #### Project Objectives
 > - Documenting my daily coding challenges on Hackerrank.com
-    - Python
-    - SQL
-    - HTML
-    - javascript
+    > - Python
+    > - SQL
+    > - HTML
+    > - javascript
